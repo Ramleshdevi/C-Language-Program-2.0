@@ -15,7 +15,7 @@ int main() {
       // Value of temp (initial value of first) is assigned to second
       second = temp;
 
-      printf("\nAfter swapping, firstNumber = %.2lf\n", first);
-      printf("After swapping, secondNumber = %.2lf", second);
+      printf("\nAfter swapping, FirstNumber = %.2lf\n", first);
+      printf("After swapping, SecondNumber = %.2lf", second);
       return 0;
 }
