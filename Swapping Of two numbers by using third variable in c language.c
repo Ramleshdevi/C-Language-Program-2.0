@@ -12,7 +12,7 @@ int main() {
       // Value of second is assigned to first
       first = second;
 
-      // Value of temp (initial value of first) is assigned to second
+      // Value of temp (Initial value of first) is assigned to second
       second = temp;
 
       printf("\nAfter swapping, FirstNumber = %.2lf\n", first);
